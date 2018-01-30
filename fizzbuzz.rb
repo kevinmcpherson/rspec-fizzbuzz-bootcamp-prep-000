@@ -3,7 +3,3 @@ def fizzbuzz(int)
     "FizzBuzz"
   end
 end
-else int % 3 == 0
-    "Fizz"
-  end
-end
