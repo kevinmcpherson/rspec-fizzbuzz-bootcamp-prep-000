@@ -3,7 +3,8 @@ def fizzbuzz(int)
     "Fizz"
   if int % 5 == 0
     "Buzz"
-  unless int % 3 == 0 && int % 5 == 0
-    "FizzBuzz"
   end
 end
+
+#unless int % 3 == 0 && int % 5 == 0
+  #"FizzBuzz"
